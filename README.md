@@ -9,3 +9,4 @@ Steps:
 * install `npm -i` `--``save-dev nodemon` to allow working locally easier by allowing us to reload our servers whenever we save our files, without having to stop/start the server
 * create a script to run our nodemon server in package.json: "devStart": "nodemon server.js" and create a file called server.js
 * run the server with **npm run devStart**
+* go to http://localhost:5000/graphql
